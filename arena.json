@@ -26,8 +26,8 @@
     ],
     "mindinolevelrangeperround": [150, 150, 150, 150, 150, 150],
     "maxdinolevelrangeperround": [225, 225, 225, 225, 225, 225],
-    "mindinosperround": [10, 10, 5, 5, 5, 12],
-    "maxdinosperround": [13, 13, 7, 7, 7, 15],
+    "mindinosperround": [10, 5, 5, 5, 5, 12],
+    "maxdinosperround": [13, 9, 7, 7, 7, 15],
     "playercountdinomuliplier": [
       1, 1, 1, 1, 1, 1.5, 1.5, 1.5, 1.5, 1.5, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3
     ],
@@ -71,7 +71,7 @@
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C",
       "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
     ],
-    "playerkitequipitem": [true, true, true, true, true, true, false, false],
+    "playerkitequipitem": [true, true, true, true, true, false, false, false],
     "playerkititemquality": [3, 3, 3, 3, 3, 3, 5,5, 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
     "playerkititemquantity": [1, 1, 1, 1, 1, 1,1,1, 30, 30,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150],
     "rewardcommands": [
