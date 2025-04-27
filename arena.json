@@ -1,0 +1,62 @@
+{
+  "ArenaData": {
+    "minoffsetfordinospawnrange": {
+      "x": -15000,
+      "y": -15000
+    },
+    "maxoffsetfordinospawnrange": {
+      "x": 15000,
+      "y": 15000
+    },
+    "minoffsetforplayerspawnrange": {
+      "x": -3000,
+      "y": -3000
+    },
+    "maxoffsetforplayerspawnrange": {
+      "x": 3000,
+      "y": 3000
+    },
+    "dinoclassesperround": [
+      "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+      "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+      "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C"
+    ],
+    "mindinolevelrangeperround": [150, 150, 150, 150, 150, 150],
+    "maxdinolevelrangeperround": [225, 225, 225, 225, 225, 225],
+    "mindinosperround": [10, 10, 5, 5, 5, 12],
+    "maxdinosperround": [13, 13, 7, 7, 7, 15],
+    "playercountdinomuliplier": [
+      1, 1, 1, 1, 1, 1.5, 1.5, 1.5, 1.5, 1.5, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3
+    ],
+    "menutitle": "Elite Ark Arena Battle",
+    "menudescription": "This is a battle to the death! players will have 3 lives and an award is given to any survivors after the final round is completed!",
+    "optintimerinseconds": 15,
+    "eventintervalinseconds": 21600,
+    "arenatimelimit": 3600,
+    "warningbeforeeventinseconds": [60, 300, 600],
+    "playerlives": 3,
+    "playerkit": [
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup_C",
+      "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup_C"
+    ],
+    "playerkitequipitem": [true, true, true, true, true, true, false, false],
+    "playerkititemquality": [3, 3, 3, 3, 3, 3, 5, 0,0,0],
+    "playerkititemquantity": [1, 1, 1, 1, 1, 1,3,10000, 30, 30],
+    "rewardcommands": [
+      "cheat Hyper Rocks",
+      "cheat Cool Command Here"
+    ],
+    "usepowerups": true
+  }
+}
