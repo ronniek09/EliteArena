@@ -87,7 +87,7 @@
     "playerkititemquality": [3, 3, 3, 3, 3, 3, 5,5, 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,10,0,0],
     "playerkititemquantity": [1, 1, 1, 1, 1, 1,1,1, 30, 30,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,2,300,300,300,1,500,500],
     "rewardcommands": [
-      "cheat scriptcommand ea.givebox {eos} 1 2",
+      "scriptcommand ea.givebox {eos} 1 2",
       "cheat Cool Command Here"
     ],
     "usepowerups": true
