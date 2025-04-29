@@ -18,22 +18,27 @@
     },
     "dinoclassesperround": [
       "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
+      "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
       "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
       "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
       "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
       "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C"
     ],
-    "mindinolevelrangeperround": [150, 150, 150, 150, 150, 150],
-    "maxdinolevelrangeperround": [225, 225, 225, 225, 225, 225],
-    "mindinosperround": [10, 5, 5, 5, 5, 12],
-    "maxdinosperround": [13, 9, 7, 7, 7, 15],
+    "mindinolevelrangeperround": [150, 150, 150, 150, 150, 150, 150, 150, 150, 150, 150],
+    "maxdinolevelrangeperround": [225, 225, 225, 225, 225, 225, 225, 225, 225, 225, 225],
+    "mindinosperround": [10, 5, 5, 5, 5, 12, 10, 10, 10, 10, 10],
+    "maxdinosperround": [13, 9, 7, 7, 7, 15, 12, 12, 12, 12, 12],
     "playercountdinomuliplier": [
       1, 1, 1, 1, 1, 1.5, 1.5, 1.5, 1.5, 1.5, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3
     ],
     "menutitle": "Elite Ark Arena Battle",
     "menudescription": "This is a battle to the death! players will have 3 lives and an award is given to any survivors after the final round is completed!",
-    "optintimerinseconds": 15,
+    "optintimerinseconds": 30,
     "eventintervalinseconds": 21600,
     "arenatimelimit": 3600,
     "warningbeforeeventinseconds": [60, 300, 600],
@@ -73,13 +78,16 @@
       "/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow_C",
       "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
       "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
-      "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C"
+      "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C",
+      "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C"
     ],
     "playerkitequipitem": [true, true, true, true, true, false, false, false],
-    "playerkititemquality": [3, 3, 3, 3, 3, 3, 5,5, 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0],
-    "playerkititemquantity": [1, 1, 1, 1, 1, 1,1,1, 30, 30,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,2,300,300,300],
+    "playerkititemquality": [3, 3, 3, 3, 3, 3, 5,5, 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,10,0,0],
+    "playerkititemquantity": [1, 1, 1, 1, 1, 1,1,1, 30, 30,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,150,2,300,300,300,1,500,500],
     "rewardcommands": [
-      "cheat Hyper Rocks",
+      "cheat scriptcommand ea.givebox {eos} 1 2",
       "cheat Cool Command Here"
     ],
     "usepowerups": true
