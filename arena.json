@@ -17,13 +17,12 @@
       "y": 3000
     },
     "dinoclassesperround": [
-      "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C"
+      "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C"
     ],
-    "mindinolevelrangeperround": [150, 250],
-    "maxdinolevelrangeperround": [225, 300],
-    "mindinosperround": [10, 5],
-    "maxdinosperround": [13, 9],
+    "mindinolevelrangeperround": [150],
+    "maxdinolevelrangeperround": [225],
+    "mindinosperround": [1],
+    "maxdinosperround": [1],
     "playercountdinomuliplier": [
       1, 1, 1, 1, 1, 1.5, 1.5, 1.5, 1.5, 1.5, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
     ],
