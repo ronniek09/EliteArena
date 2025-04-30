@@ -18,21 +18,12 @@
     },
     "dinoclassesperround": [
       "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
-      "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
-      "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male.Xenomorph_Character_BP_Male_C",
-      "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
-      "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
-      "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C"
+      "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C"
     ],
-    "mindinolevelrangeperround": [150, 250, 150, 150, 150, 150, 150, 150, 150, 150, 150],
-    "maxdinolevelrangeperround": [225, 300, 225, 225, 225, 225, 225, 225, 225, 225, 225],
-    "mindinosperround": [10, 5, 5, 5, 5, 12, 10, 10, 10, 10, 10],
-    "maxdinosperround": [13, 9, 7, 7, 7, 15, 12, 12, 12, 12, 12],
+    "mindinolevelrangeperround": [150, 250],
+    "maxdinolevelrangeperround": [225, 300],
+    "mindinosperround": [10, 5],
+    "maxdinosperround": [13, 9],
     "playercountdinomuliplier": [
       1, 1, 1, 1, 1, 1.5, 1.5, 1.5, 1.5, 1.5, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
     ],
