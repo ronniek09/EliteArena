@@ -28,11 +28,12 @@
       "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
       "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
       "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C"
+        ],
     "mindinolevelrangeperround": [150, 250, 150, 150, 150, 150, 150, 150, 150, 150, 150],
     "maxdinolevelrangeperround": [225, 300, 225, 225, 225, 225, 225, 225, 225, 225, 225],
     "mindinosperround": [10, 5, 5, 5, 5, 12, 10, 10, 10, 10, 10],
     "maxdinosperround": [13, 9, 7, 7, 7, 15, 12, 12, 12, 12, 12],
-        "playercountdinomuliplier": [
+    "playercountdinomuliplier": [
             1,
             1,
             1,
