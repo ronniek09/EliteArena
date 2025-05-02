@@ -29,10 +29,10 @@
       "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
       "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C"
         ],
-    "mindinolevelrangeperround": [150, 250, 150, 150, 250, 250, 250, 250, 150, 350, 350],
-    "maxdinolevelrangeperround": [225, 300, 225, 225, 325, 325, 325, 325, 225, 425, 425],
-    "mindinosperround": [10, 10, 10, 10, 10, 12, 10, 10, 10, 10, 10],
-    "maxdinosperround": [13, 12, 12, 12, 12, 15, 12, 12, 12, 12, 15],
+    "mindinolevelrangeperround": [150, 450, 550, 550, 550, 650, 550, 750, 850, 950, 995],
+    "maxdinolevelrangeperround": [225, 500, 625, 725, 725, 725, 725, 825, 925, 995, 999],
+    "mindinosperround": [10, 10, 10, 10, 10, 12, 10, 20, 20, 20, 20],
+    "maxdinosperround": [13, 12, 12, 12, 12, 15, 12, 22, 22, 22, 25],
     "playercountdinomuliplier": [
             1,
             1,
