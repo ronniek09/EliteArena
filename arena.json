@@ -241,7 +241,7 @@
             500
         ],
         "rewardcommands": [
-            "scriptcommand ea.givebox {eos} 1 2",
+            "scriptcommand ea.givebox {eos} 1 1",
             "cheat Cool Command Here"
         ],
         "usepowerups": true,
