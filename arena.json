@@ -21,7 +21,7 @@
       "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
       "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
       "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
       "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
       "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP_C",
@@ -30,7 +30,7 @@
       "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C"
         ],
     "mindinolevelrangeperround": [500, 450, 550, 550, 550, 450, 550, 450, 450, 450, 495],
-    "maxdinolevelrangeperround": [500, 500, 625, 725, 725, 525, 725, 525, 525, 595, 599],
+    "maxdinolevelrangeperround": [500, 500, 625, 625, 625, 525, 625, 525, 525, 595, 899],
     "mindinosperround": [1, 10, 10, 10, 10, 12, 10, 20, 20, 20, 20],
     "maxdinosperround": [1, 12, 12, 12, 12, 15, 12, 22, 22, 22, 25],
     "playercountdinomuliplier": [
