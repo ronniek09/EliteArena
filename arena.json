@@ -29,8 +29,8 @@
       "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C"
         ],
-    "mindinolevelrangeperround": [200, 250, 350, 350, 350, 350, 350, 350, 350, 350, 395],
-    "maxdinolevelrangeperround": [200, 300, 425, 425, 425, 425, 425, 425, 425, 495, 699],
+    "mindinolevelrangeperround": [200, 250, 250, 250, 250, 150, 350, 350, 350, 350, 395],
+    "maxdinolevelrangeperround": [200, 300, 325, 325, 325, 225, 425, 425, 425, 495, 699],
     "mindinosperround": [1, 10, 10, 10, 10, 10, 10, 20, 20, 20, 20],
     "maxdinosperround": [1, 12, 12, 12, 10, 10, 12, 22, 22, 22, 25],
     "playercountdinomuliplier": [
