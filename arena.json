@@ -1,12 +1,12 @@
 {
     "ArenaData": {
         "minoffsetfordinospawnrange": {
-            "x": -10000,
-            "y": -10000
+            "x": -5000,
+            "y": -5000
         },
         "maxoffsetfordinospawnrange": {
-            "x": 10000,
-            "y": 10000
+            "x": 5000,
+            "y": 5000
         },
         "minoffsetforplayerspawnrange": {
             "x": -3000,
@@ -29,10 +29,10 @@
       "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C"
         ],
-    "mindinolevelrangeperround": [500, 450, 550, 550, 550, 450, 550, 450, 450, 450, 495],
-    "maxdinolevelrangeperround": [500, 500, 625, 625, 625, 525, 625, 525, 525, 595, 899],
-    "mindinosperround": [1, 10, 10, 10, 10, 12, 10, 20, 20, 20, 20],
-    "maxdinosperround": [1, 12, 12, 12, 12, 15, 12, 22, 22, 22, 25],
+    "mindinolevelrangeperround": [200, 250, 350, 350, 350, 350, 350, 350, 350, 350, 395],
+    "maxdinolevelrangeperround": [200, 300, 425, 425, 425, 425, 425, 425, 425, 495, 699],
+    "mindinosperround": [1, 10, 10, 10, 10, 10, 10, 20, 20, 20, 20],
+    "maxdinosperround": [1, 12, 12, 12, 10, 10, 12, 22, 22, 22, 25],
     "playercountdinomuliplier": [
             1,
             1,
