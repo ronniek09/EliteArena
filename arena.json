@@ -19,7 +19,7 @@
         "dinoclassesperround": [
       "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Hard.Gorilla_Character_BP_Hard_C",
       "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
+      "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
       "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
       "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
@@ -27,7 +27,7 @@
       "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C"
+      "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C"
         ],
     "mindinolevelrangeperround": [200, 250, 250, 250, 250, 150, 350, 350, 350, 350, 395],
     "maxdinolevelrangeperround": [200, 300, 325, 325, 325, 225, 425, 425, 425, 495, 699],
