@@ -18,21 +18,21 @@
         },
         "dinoclassesperround": [
       "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+      "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
       "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
       "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
       "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+      "/Game/Extinction/Dinos/Mek/M_Character_BP.M_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
       "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C"
+      "'/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C"
         ],
-    "mindinolevelrangeperround": [10, 270, 250, 250, 250, 250, 350, 150, 350, 350, 700],
+    "mindinolevelrangeperround": [10, 270, 250, 250, 250, 300, 350, 150, 350, 350, 700],
     "maxdinolevelrangeperround": [10, 300, 325, 325, 425, 325, 425, 225, 425, 495, 770],
     "mindinosperround": [25, 10, 10, 10, 10, 10, 10, 3, 20, 20, 1],
-    "maxdinosperround": [45, 12, 12, 12, 10, 10, 12, 3, 22, 22, 1],
+    "maxdinosperround": [45, 12, 12, 12, 10, 15, 12, 3, 22, 22, 1],
     "playercountdinomuliplier": [
             1,
             1,
@@ -173,7 +173,7 @@
         ],
         "menutitle": "Elite Ark Arena Battle",
         "menudescription": "This is a battle to the death! players will have 3 lives and an award is given to any survivors after the final round is completed!",
-        "optintimerinseconds": 30,
+        "optintimerinseconds": 15,
         "eventintervalinseconds": 216000,
         "arenatimelimit": 3600,
         "warningbeforeeventinseconds": [
@@ -319,5 +319,6 @@
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
