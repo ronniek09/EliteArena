@@ -173,7 +173,7 @@
         ],
         "menutitle": "Elite Ark Arena Battle",
         "menudescription": "This is a battle to the death! players will have 3 lives and an award is given to any survivors after the final round is completed!",
-        "optintimerinseconds": 15,
+        "optintimerinseconds": 30,
         "eventintervalinseconds": 216000,
         "arenatimelimit": 3600,
         "warningbeforeeventinseconds": [
@@ -319,6 +319,7 @@
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
 
