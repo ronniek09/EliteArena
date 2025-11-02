@@ -232,14 +232,14 @@
             false
         ],
         "playerkititemquality": [
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            20,
-            25,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
             0,
             0,
             0,
@@ -314,11 +314,12 @@
             "cheat Cool Command Here"
         ],
         "usepowerups": true,
-        "minpowerupsperspawn": 10,
-        "maxpowerupsperspawn": 15,
+        "minpowerupsperspawn": 15,
+        "maxpowerupsperspawn": 25,
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
 
