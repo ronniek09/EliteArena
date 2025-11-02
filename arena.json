@@ -29,10 +29,10 @@
       "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C"
         ],
-    "mindinolevelrangeperround": [10, 270, 250, 350, 450, 300, 350, 150, 350, 350, 900],
-    "maxdinolevelrangeperround": [10, 300, 325, 375, 475, 325, 425, 225, 425, 495, 990],
-    "mindinosperround": [25, 15, 12, 10, 15, 10, 10, 3, 20, 20, 1],
-    "maxdinosperround": [35, 20, 15, 12, 20, 15, 12, 3, 22, 22, 1],
+    "mindinolevelrangeperround": [10, 270, 250, 350, 450, 400, 350, 150, 350, 350, 900],
+    "maxdinolevelrangeperround": [10, 300, 325, 375, 475, 575, 425, 225, 425, 495, 990],
+    "mindinosperround": [25, 15, 12, 10, 15, 15, 10, 3, 20, 20, 1],
+    "maxdinosperround": [35, 20, 15, 12, 20, 20, 12, 3, 22, 22, 1],
     "playercountdinomuliplier": [
             1,
             1,
@@ -319,6 +319,7 @@
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
 
