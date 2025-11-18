@@ -317,8 +317,8 @@
             50
         ],
         "rewardcommands": [
-            "scriptcommand ea.givebox {eos} 1 2",
-            "cheat Cool Command Here"
+            "scriptcommand ea.givebox {eos} 1 1",
+            "scriptcommand ea.addwoftoken {eos} luckyornot 2"
         ],
         "usepowerups": true,
         "minpowerupsperspawn": 15,
@@ -326,6 +326,7 @@
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
 
