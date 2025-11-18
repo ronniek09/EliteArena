@@ -18,21 +18,24 @@
         },
         "dinoclassesperround": [
       "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
       "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
       "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
       "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+      "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
       "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
       "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
       "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
+      "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
       "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C"
         ],
-    "mindinolevelrangeperround": [10, 270, 250, 350, 650, 400, 350, 150, 350, 350, 950],
-    "maxdinolevelrangeperround": [10, 300, 325, 375, 775, 575, 425, 225, 425, 495, 990],
-    "mindinosperround": [25, 15, 12, 10, 15, 15, 10, 3, 20, 20, 2],
-    "maxdinosperround": [35, 20, 15, 12, 20, 20, 12, 3, 22, 22, 2],
+    "mindinolevelrangeperround": [10, 270, 270, 250, 350, 650, 400, 400, 350, 150, 350, 350, 300,  999],
+    "maxdinolevelrangeperround": [10, 270, 300, 325, 375, 775, 575, 600, 425, 225, 425, 495, 650, 999],
+    "mindinosperround": [25, 15, 15, 12, 10, 15, 15, 15, 10, 3, 20, 20, 15, 3],
+    "maxdinosperround": [35, 20, 20, 15, 12, 20, 20, 20, 12, 3, 22, 22, 20, 3],
     "playercountdinomuliplier": [
             1,
             1,
@@ -152,23 +155,23 @@
             2,
             2,
             2,
-            2,
-            2,
-                    2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
             5
         ],
         "menutitle": "Elite Ark Arena Battle",
@@ -191,6 +194,7 @@
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C",
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C",
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C",
+            "/Game/ScorchedEarth/WeaponFlamethrower/PrimalItem_WeapFlamethrower.PrimalItem_WeapFlamethrower_C",
             "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup_C",
             "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup_C",
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C",
@@ -219,7 +223,8 @@
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C",
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C",
             "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet_C",
-            "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet_C"
+            "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet_C",
+            "/Game/ScorchedEarth/WeaponFlamethrower/PrimalItemAmmo_Flamethrower.PrimalItemAmmo_Flamethrower_C"
         ],
         "playerkitequipitem": [
             true,
@@ -236,10 +241,11 @@
             50,
             50,
             50,
-            50,
-            50,
-            50,
-            50,
+            100,
+            100,
+            100,
+            100,
+            100,
             0,
             0,
             0,
@@ -307,7 +313,8 @@
             500,
             2,
             500,
-            500
+            500,
+            50
         ],
         "rewardcommands": [
             "scriptcommand ea.givebox {eos} 1 2",
@@ -319,6 +326,7 @@
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
 
