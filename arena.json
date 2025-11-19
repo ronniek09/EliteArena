@@ -18,7 +18,7 @@
         },
         "dinoclassesperround": [
       "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
-      "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
+      "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP_C",
       "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
       "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
       "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
@@ -34,8 +34,8 @@
         ],
     "mindinolevelrangeperround": [10, 270, 270, 250, 350, 650, 400, 400, 350, 150, 350, 350, 300,  999],
     "maxdinolevelrangeperround": [10, 270, 300, 325, 375, 775, 575, 600, 425, 225, 425, 495, 650, 999],
-    "mindinosperround": [25, 15, 15, 12, 10, 15, 15, 15, 10, 3, 20, 20, 15, 3],
-    "maxdinosperround": [35, 20, 20, 15, 12, 20, 20, 20, 12, 3, 22, 22, 15, 3],
+    "mindinosperround": [25, 5, 15, 12, 10, 15, 7, 15, 10, 3, 15, 10, 5, 3],
+    "maxdinosperround": [25, 5, 20, 15, 12, 20, 12, 20, 12, 3, 22, 12, 5, 3],
     "playercountdinomuliplier": [
             1,
             1,
@@ -328,6 +328,7 @@
         "powerupschancetospawn": 0.03
     }
 }
+
 
 
 
