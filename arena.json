@@ -320,7 +320,7 @@
         ],
         "rewardcommands": [
             "scriptcommand ea.givebox {eos} 1 1",
-            "scriptcommand ea.addwoftoken {eos} luckyornot 2"
+            "scriptcommand ea.addwoftoken {eos} luckyornot 3"
         ],
         "usepowerups": true,
         "minpowerupsperspawn": 15,
