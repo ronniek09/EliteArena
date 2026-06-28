@@ -34,8 +34,8 @@
         ],
     "mindinolevelrangeperround": [10, 270, 270, 250, 350, 650, 400, 400, 350, 150, 350, 350, 300,  999],
     "maxdinolevelrangeperround": [10, 270, 300, 325, 375, 775, 575, 600, 425, 225, 425, 495, 650, 999],
-    "mindinosperround": [25, 5, 15, 12, 10, 15, 7, 15, 10, 3, 15, 10, 5, 3],
-    "maxdinosperround": [25, 5, 20, 15, 12, 20, 12, 20, 12, 3, 22, 12, 5, 3],
+    "mindinosperround": [15, 5, 15, 12, 10, 15, 7, 15, 10, 3, 15, 10, 5, 4],
+    "maxdinosperround": [20, 5, 20, 15, 12, 20, 12, 20, 12, 3, 22, 12, 5, 4],
     "playercountdinomuliplier": [
             1,
             1,
